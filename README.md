@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cosmin-W
-- 👀 I’m interested in JavaScript and React
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 👀 I’m am an Python, JavaScript developer.
+- 🌱 Skills: RestAPI, Flask, GraphQL, VueJs, React
 - 📫 Message me 
 
 <!---
