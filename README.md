@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cosmin-W
 - 👀 I’m am an Python, JavaScript developer.
-- 🌱 Skills: RestAPI, Flask, GraphQL, VueJs, React
+- 🌱 Skills: RestAPI, Flask, VueJs, React
 - 📫 Message me 
 
 <!---
