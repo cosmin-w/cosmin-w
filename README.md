@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cosmin-W
-- 💼 I’m am an  Developer / IT Manager.
+- 💼 I’m am a Developer / IT Manager.
 - 🌱 Skills: Go, Python, JavaScript, Flask, React, Docker, DockerSwarm, SQL.
 - 📫 Message me 
 
